@@ -5,7 +5,7 @@ The lores folder contains a collection of mostly integer BASIC games and one App
 ## Hi-Res
 The hires folder contains my high resolution games that were published in various magazines back in the day.  These were written in assembly language.  A disk image is provided for each game so that you can avoid pesky hexadecimal data entry. 
 
-* I wrote _Chicken Little_, a life and death battle against gravity, first, at the age of 18. However, it was published last after a wait of over 10 years.  It appeared in the February 1992 issue of _Nibble_ magazine.  The [article](https://github.com/bikibird/AppleIIGames/blob/master/hires/chickenLittle.pdf) is notable for a long tutorial on my approach to writing arcade games for the Apple II and contains complete and commented source code listings.  It's worth studying if you are learning 6502 assembler. 
+* I wrote _Chicken Little_, a life and death battle against gravity, first, at the age of 18. However, it was published last after a wait of over 10 years.  It appeared in the February 1992 issue of _Nibble_ magazine.  The [article](https://github.com/bikibird/AppleIIGames/blob/master/hires/chickenLittle.pdf) is notable for a long tutorial on my approach to writing arcade games for the Apple II and contains well commented source code listings.  It's worth studying if you are learning 6502 assembler. 
 
 * _Spin Ball_, a two player cross between pinball and pong, was written shortly after _Chicken Lttle_.  It appeared in the April 1984 issue of _Nibble_ magazine.
 
