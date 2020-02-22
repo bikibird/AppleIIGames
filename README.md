@@ -7,7 +7,7 @@ The hires folder contains my high resolution games that were published in variou
 
 * I wrote _Chicken Little_, a life and death battle against gravity, first, at the age of 18. However, it was published last after the publisher held on to it for over 10 years.  It appeared in the February 1992 issue of _Nibble_ magazine.  The [article](https://github.com/bikibird/AppleIIGames/blob/master/hires/chickenLittle.pdf) is notable for a long tutorial on my approach to writing arcade games for the Apple II and contains well commented source code listings.  It's worth studying if you are learning 6502 assembly language. 
 
-* _Spin Ball_, a two player cross between pinball and pong, was written shortly after _Chicken Lttle_.  It appeared in the April 1984 issue of _Nibble_ magazine.
+* _Spin Ball_, a two player cross between pinball and pong, was written shortly after _Chicken Little_.  It appeared in the April 1984 issue of _Nibble_ magazine.
 
 * _Pond_, life and death in a drop of water, was published by [_II Computing_ in the December/January 1987 issue](https://archive.org/details/II_Computing_Vol_2_No_2_Dec_86_Jan_87/mode/2up).  The game was originally submitted as "Pond Scum", but the good taste of the editors prevailed.
 
