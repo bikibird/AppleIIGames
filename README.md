@@ -11,4 +11,4 @@ The hires folder contains my high resolution games that were published in variou
 
 * _Pond_, life and death in a drop of water, was published by [_II Computing_ in the December/January 1987 issue](https://archive.org/details/II_Computing_Vol_2_No_2_Dec_86_Jan_87/mode/2up).  The game was originally submitted as "Pond Scum", but the good taste of the editors prevailed.
 
-* _Mosquito Madness_, an homage to summer evenings in Wisconsin and vaguely reminiscent _Space Invaders_, proves that no topic is too trivial for a game.  It appeared in the April 1988 issue of Compute!'s Apple Applications.  
+* _Mosquito Madness_, an homage to summer evenings in Wisconsin and vaguely reminiscent _Space Invaders_, proves that no topic is too trivial for a game.  It appeared in the April 1988 issue of _Compute!'s Apple Applications_.  
